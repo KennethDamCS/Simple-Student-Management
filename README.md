@@ -1,2 +1,2 @@
-# spring-boot-tutorial-1
+# Spring-Student-Management
 Spring Boot Student Management App w/ PostgreSQL database
