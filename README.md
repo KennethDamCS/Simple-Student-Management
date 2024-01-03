@@ -1,2 +1,2 @@
 # Spring-Student-Management
-Spring Boot Student Management App w/ PostgreSQL database
+Server-side Student Management application developed using Spring Boot and PostgreSQL database
